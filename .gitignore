@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/preprocessed/
+data/*.zip
+notebooks/preprocessing.log
+models/
+.venv/
+.DS_Store
